@@ -132,7 +132,7 @@ def num_points_scored(player_name)
       array.flatten
         #value == player_name
          #hash[:points]
-      
+
 
     end
   # elsif
