@@ -141,7 +141,7 @@ def num_points_scored(player_name)
   #       #value == player_name
   #       #value #hash[:points]
   #     #end
-  # 
+  #
   #   end
   # end
 end
