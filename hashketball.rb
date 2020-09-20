@@ -128,7 +128,7 @@ end
 
 def num_points_scored(player_name)
   # if
-    game_hash[:away][:players].to_s
+    game_hash[:away][:players].to_a.flatten
         #value == player_name
          #hash[:points]
 
