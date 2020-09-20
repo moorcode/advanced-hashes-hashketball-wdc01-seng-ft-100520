@@ -142,3 +142,4 @@ def num_points_scored(player_name)
       hash[:points]
     end
   end
+end
